@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrew Burns' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrew Burns
+Incoming Data Analytics Intern at Eide Bailly.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -12,80 +12,42 @@ Physicist, Mathematician, Cambridge professor.
 
 
 ## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Student at BYU-Idaho. Editor in the Closed-Captioning Department.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Web development, machine learning, data analysis.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2014`
+__Hamilton Southeastern High School, Fishers IN__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
+`2016-Present`
+__BYU-Idaho, Rexburg ID__
 
 - Fellow
 
 
-
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2014`
+Eagle Scout
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2016-2018`
+__CSEE Department__, Rexburg
+- TA, CS101
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2018-Present`
+__Closed-Captioning Department__, Rexburg
+- Editor
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2021 -->
 
 
