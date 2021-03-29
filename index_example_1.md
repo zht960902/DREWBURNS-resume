@@ -6,8 +6,8 @@ title: Andrew Burns' CV
 Incoming Data Analytics Intern at Eide Bailly.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andrewburns.r@gmail.com">andrewburns.r@gmail.com</a>
+| <a href="http://www.github.com/oepra22">My Github</a>
 </div>
 
 
@@ -26,8 +26,6 @@ __Hamilton Southeastern High School, Fishers IN__
 
 `2016-Present`
 __BYU-Idaho, Rexburg ID__
-
-- Fellow
 
 
 ## Awards
