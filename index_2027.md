@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Andrew Burns' Resume
 ---
 # Andrew Burns
 Incoming Data Analytics Intern at Eide Bailly.
